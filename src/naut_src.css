@@ -14,13 +14,13 @@
 
 
         ::-moz-selection {
-            background-color: #0079d3;
+            background-color: #b81400;
             text-shadow: none;
             color: #fff;
         }
 
         ::selection {
-            background-color: #0079d3;
+            background-color: #b81400;
             text-shadow: none;
             color: #fff;
         }
@@ -51,7 +51,7 @@
         body .btn, body button, .c-btn-primary {
             margin: 4px 16px 4px 0px;
             padding: 2px 18px;
-            background-color: #0079d3;
+            background-color: #b81400;
             border: none;
             border-radius: 2px;
             color: #fff;
@@ -67,13 +67,13 @@
 
             .btn:hover, button:hover, .c-btn-primary:hover {
                 color: #fff;
-                background-color: #158be2;
+                background-color: #c61600;
                 box-shadow: 0 4px 5px 0 rgba(0,0,0,.14),0 1px 10px 0 rgba(0,0,0,.12),0 2px 4px -1px rgba(0,0,0,.2);
             }
 
                 .btn:active, button:active, .c-btn-primary:active {
                     color: #fff;
-                    background-color: #0066b2;
+                    background-color: #d11700;
                     box-shadow: 0 2px 1.5px 0 rgba(0,0,0,.12),0 0px 4px 0 rgba(0,0,0,.12);
                 }
 
@@ -612,8 +612,8 @@
 
 
                         .expando-button:hover {
-                            background-color: #0079d3;
-                            border-color: #0079d3;
+                            background-color: #b81400;
+                            border-color: #b81400;
                         }
 
                         .expando-button.selftext.collapsed                  {background-position: -00px -48px!important;}
@@ -1283,7 +1283,7 @@
                     padding: 8px 16px;
                     line-height: 26px;
                     border: none;
-                    background-color: #0079d3;
+                    background-color: #b81400;
                     color: #fff;
                     border-radius: 2px;
                 }
@@ -1631,7 +1631,7 @@
                 }
 
                     .morelink:active {
-                        background-color: #0066b2;
+                        background-color: #d11700;
                         box-shadow: 0 2px 1.5px 0 rgba(0,0,0,.12),0 0px 4px 0 rgba(0,0,0,.12);
                     }
 
@@ -1753,7 +1753,7 @@
                     padding: 0 16px;
                     width: 100%;
                     border-radius: 2px;
-                    background-color: #0079d3;
+                    background-color: #b81400;
                     font-family: verdana,arial,sans-serif;
                     color: #fff;
                     display: block;
@@ -1768,12 +1768,12 @@
 
 
                     .side .titlebox .md h3 a:hover {
-                        background-color: #158be2;
+                        background-color: #c61600;
                         box-shadow: 0 4px 5px 0 rgba(0,0,0,.14),0 1px 10px 0 rgba(0,0,0,.12),0 2px 4px -1px rgba(0,0,0,.2)
                     }
 
                         .side .titlebox .md h3 a:active {
-                            background-color: #0066b2;
+                            background-color: #d11700;
                             box-shadow: 0 2px 1.5px 0 rgba(0,0,0,.12),0 0px 4px 0 rgba(0,0,0,.12);
                         }
 
@@ -1938,7 +1938,7 @@
                                 .drop-choices form:last-of-type a.choice {border-bottom: none;}
 
                                 .drop-choices a.choice:hover {
-                                    background-color: #0079d3;
+                                    background-color: #b81400;
                                     color: #fff;
                                 }
 
@@ -2280,7 +2280,7 @@
                     position: relative;
                     padding: 0;
                     border: none;
-                    background-color: #0079D3;
+                    background-color: #b81400;
                     border-radius: 2px;
                     box-shadow: 0 1px 4px 0 rgba(0,0,0,0.14);
                 }
@@ -2328,7 +2328,7 @@
                     }
 
                     .submit_text.enabled.roundfield {
-                        background-color: #0079D3;
+                        background-color: #b81400;
                     }
 
                         .submit_text.enabled.roundfield .md {color: #fff;}
@@ -2543,7 +2543,7 @@
                             .combined-search-page .search-result-subreddit .search-subscribe-button .add,
                             .combined-search-page .search-result-subreddit .search-subscribe-button .add:active
                              {
-                                background-color: #0079d3;
+                                background-color: #b81400;
                                 border: none;
                                 border-radius: 2px;
                             }
