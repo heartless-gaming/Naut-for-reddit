@@ -1,13 +1,3 @@
-        /*
-                Version 4.0
-                Stylesheet by Cryptonaut
-                Assisted by RenegadeAI & LackingAGoodName
-                Last modified: 14 August 2016
-                Details: This is a custom template made by /u/Cryptonaut
-                Find out more on /r/Naut
-
-                -------------------------------------------------------------------------- */
-
     *, *:before, *:after { -webkit-box-sizing: border-box;-moz-box-sizing: border-box; box-sizing: border-box;}
 
     body {
@@ -18,7 +8,7 @@
 
         /* General Styles - Links / Buttons / Inputs */
         a {
-            color: #24a0ed;
+            color: #c61600;
             transition: color 0.15s ease;
         }
 
@@ -54,7 +44,7 @@
 
                 body .content .text:focus, body .content textarea:focus, body .content input[type=text]:focus, body .content input[type=password]:focus,
                 .side .spacer input:active, body .content input[type=url]:focus {
-                    border-color: #24a0ed;
+                    border-color: #c61600;
                     color: #292f34;
                 }
 
@@ -577,12 +567,12 @@
                         overflow: visible;
                     }
 
-                        body .content .sitetable .link .title a:hover {color: #24a0ed;}
+                        body .content .sitetable .link .title a:hover {color: #c61600;}
 
 
-                        /*Unvisited*/   .thing .title.loggedin.click, .thing .title.click, .thing .title.loggedin, .thing .title {color:#24a0ed;}
+                        /*Unvisited*/   .thing .title.loggedin.click, .thing .title.click, .thing .title.loggedin, .thing .title {color:#c61600;}
                         /*Visited  */   .content .thing .title:visited, .content .thing.visited .title {color: #738491;}
-                        /*Clicking */   .thing .title.loggedin.click:visited, .thing .title.click:visited {color:#24a0ed;}
+                        /*Clicking */   .thing .title.loggedin.click:visited, .thing .title.click:visited {color:#c61600;}
 
 
 
@@ -599,7 +589,7 @@
                         }
 
                             .link .domain a:hover {
-                                color: #24a0ed;
+                                color: #c61600;
                                 text-decoration: none;
                             }
 
@@ -683,7 +673,7 @@
 
                         .link .entry .tagline:first-letter {text-transform: capitalize;}
                         .link .entry .tagline time {cursor: help;}
-                        .link .entry .tagline a:hover {color: #24a0ed;text-decoration: none;}
+                        .link .entry .tagline a:hover {color: #c61600;text-decoration: none;}
                         .link .entry .tagline a.author {margin-right: inherit;}
 
                         .link .entry .tagline .userattrs {visibility: hidden;}
@@ -735,7 +725,7 @@
                             transition: all 0.15s ease;
                         }
 
-                            .link .entry .buttons li a:hover {color: #24a0ed;text-decoration: none;}
+                            .link .entry .buttons li a:hover {color: #c61600;text-decoration: none;}
 
                             .entry .buttons li.nsfw-stamp {padding: 0;border-radius: 0;border: none !important;}
 
@@ -758,7 +748,7 @@
 
 
                             .link .entry .buttons li a.comments {
-                                color: #24a0ed;
+                                color: #c61600;
                                 font-weight: bold !important;
                                 transition: all 0.25s ease-in-out !important;
                             }
@@ -811,7 +801,7 @@
                                 /*  .link .entry li .comments:hover .newComments {color: #fff !important;} */
 
                                 /* Flair */
-                                .link .entry .buttons li a.flairselectbtn {color: #24a0ed;}
+                                .link .entry .buttons li a.flairselectbtn {color: #c61600;}
 
                                 /* RES L+C */
                                 .link .entry .buttons li .redditSingleClick {
@@ -1009,7 +999,7 @@
                         .flairselector h2 {
                             margin-bottom: 4px;
                             background-color: transparent;
-                            color: #24a0ed;
+                            color: #c61600;
                             text-align: left;
                             text-transform: capitalize;
                             font-weight: normal;
@@ -1041,7 +1031,7 @@
                                     .flairoptionpane ul li .linkflair a.title {
                                         font-size: 18px !important;
                                         opacity: 100 !important;
-                                        color: #24a0ed !important;
+                                        color: #c61600 !important;
                                     }
 
                         .flairselector form {
@@ -1060,7 +1050,7 @@
                                 .flairselector form .flairselection .linkflair a.title {
                                     font-size: 18px !important;
                                     opacity: 100 !important;
-                                    color: #24a0ed !important;
+                                    color: #c61600 !important;
                                     cursor: default;
                                 }
 
@@ -1074,7 +1064,7 @@
                                     .flairselector form .flairselection .flairremove a {
                                         visibility: visible;
                                         opacity: 100 !important;
-                                        color: #24a0ed !important;
+                                        color: #c61600 !important;
                                         margin-left: -4px;
                                         text-transform: capitalize;
                                     }
@@ -1636,7 +1626,7 @@
             }
 
                 .morelink:hover {
-                    background-color: #158be2;
+                    background-color: #c61600;
                     box-shadow: 0 4px 5px 0 rgba(0,0,0,.14),0 1px 10px 0 rgba(0,0,0,.12),0 2px 4px -1px rgba(0,0,0,.2)
                 }
 
@@ -1730,7 +1720,7 @@
                     }
 
                 .titlebox .tagline a.flairselectbtn {
-                    color: #24a0ed;
+                    color: #c61600;
                 }
 
             .leavemoderator, .titlebox .tagline a.author, .titlebox form.toggle.leavecontributor-button {display: none;}
@@ -1792,7 +1782,7 @@
                     background-color: #FFF;
                     border: none;
                     border-radius: 2px;
-                    color: #24a0ed;
+                    color: #c61600;
                     font-weight: bold;
                     display: block;
                     margin: 1.5em 0em;
@@ -1875,7 +1865,7 @@
                     background-color: #fff;
                 }
 
-                    .sidebox.create .morelink a {font-size: 14px;color: #24a0ed;}
+                    .sidebox.create .morelink a {font-size: 14px;color: #c61600;}
                     .sidebox .spacer {display: none;}
 
             /* Recently viewed links */
@@ -1886,7 +1876,7 @@
                 display: block;
                 margin: 0px 0px;
                 padding: 10px 0px;
-                color: #24A0ED;
+                color: #c61600;
                 content: "This subreddit uses the /r/Naut theme.";
                 text-transform: none;
                 font-size: 16px;
@@ -1957,7 +1947,7 @@
                         font-weight: normal;
                     }
 
-                        .commentarea .menuarea .toggle a:hover, .help-hoverable:hover {color: #24a0ed;}
+                        .commentarea .menuarea .toggle a:hover, .help-hoverable:hover {color: #c61600;}
 
                         .help-hoverable {
                             font-size: x-small;
@@ -1986,7 +1976,7 @@
                         .commentarea>.usertext textarea:not(:focus) { background: url(%%commentboxbg%%) no-repeat 50% 50%;}
 
                         .usertext .bottom-area {width: 504px;}
-                            .usertext .bottom-area a.reddiquette {color: #24a0ed;}
+                            .usertext .bottom-area a.reddiquette {color: #c61600;}
 
                 .gold-accent.comment-visits-box {
                     margin: 0px 0px 12px 0px;
@@ -2098,7 +2088,7 @@
                                 }
 
                                     .comment .author:hover {
-                                        color: #24a0ed;
+                                        color: #c61600;
                                         text-decoration: none;
                                     }
 
@@ -2109,7 +2099,7 @@
 
                                     .tagline .submitter {
                                         font-weight: bold;
-                                        color: #24a0ed;
+                                        color: #c61600;
                                     }
 
 
@@ -2146,7 +2136,7 @@
                                 /* Comment Body Text */
                                 .comment .usertext .md {color: #292f34;}
 
-                                        .md a {color: #24a0ed;}
+                                        .md a {color: #c61600;}
                                             .md a:visited { color: #7D5D8A;}
 
                                         .md pre {padding: 8px;}
@@ -2187,12 +2177,12 @@
                                 }
 
                                     .comment .flat-list li a:hover {
-                                        color: #24a0ed;
+                                        color: #c61600;
                                         text-decoration: none;
                                     }
 
                                     .comment .flat-list li a[onclick*="reply"] {
-                                        color: #24a0ed;
+                                        color: #c61600;
                                         font-weight: bold;
                                         font-size: 11px;
                                     }
@@ -2200,7 +2190,7 @@
 
 
 
-                                .deepthread a {color: #24a0ed;}
+                                .deepthread a {color: #c61600;}
                                 .morecomments a {color: #738491;}
 
                 /* Sidebar stuff */
@@ -2536,13 +2526,13 @@
                     }
 
                         .combined-search-page .search-result .search-result-header .search-title {
-                            color: #24a0ed;
+                            color: #c61600;
                         }
 
                         .combined-search-page .search-result .search-result-meta {color: #738491;}
 
                         .combined-search-page .search-result a, .combined-search-page .search-result a>mark {
-                            color: #24a0ed;
+                            color: #c61600;
                         }
 
                         .combined-search-page .search-result-subreddit .search-subscribe-button {
@@ -2565,7 +2555,7 @@
                                 color: #738491;
                             }
 
-                            .combined-search-page .search-result .search-comments {color: #24a0ed;}
+                            .combined-search-page .search-result .search-comments {color: #c61600;}
 
                             .combined-search-page .search-result.has-thumbnail>.thumbnail {
                                 margin-left: 0px;
@@ -2638,8 +2628,8 @@
 
                     .wiki-page .pageactions .wikiaction-current {
                         padding: 10px 16px 9px 16px;
-                        border-bottom: 2px solid #24a0ed;
-                        color: #24a0ed;
+                        border-bottom: 2px solid #c61600;
+                        color: #c61600;
                     }
 
                         .wiki-page .pageactions .wikiaction:hover, .wiki-page .pageactions .wikiaction-current:hover {background-color: rgba(0,0,0,0.05);}
@@ -2677,7 +2667,7 @@
             }
 
                 .linefield .title {
-                    color: #24a0ed;
+                    color: #c61600;
                     text-transform: capitalize;
                     padding: 0;
                 }
@@ -2686,7 +2676,7 @@
 
                     .linefield .title:first-letter, .linefield label:first-letter {text-transform: capitalize;}
                     .usertext .bottom-area a {color: #98abba;}
-                    .usertext .bottom-area a:hover {color: #24a0ed;}
+                    .usertext .bottom-area a:hover {color: #c61600;}
 
             .pretty-form {padding-top: 24px;}
             .fancy-settings h1, .create-promotion h1 { color: rgba(255,255,255,.8);}
@@ -2709,7 +2699,7 @@
                     }
 
                     .tabmenu li.selected a {
-                        color: #24a0ed;
+                        color: #c61600;
                         background-color: transparent;
                         border: none;
                     }
@@ -2989,7 +2979,7 @@
 
                 .res .RESshortcutside:hover, .res .RESDashboardToggle:hover {
                     background-color: transparent;
-                    color: #24a0ed;
+                    color: #c61600;
                 }
 
             .res #progressIndicator {
@@ -3219,11 +3209,3 @@
            98%  {opacity: 0;}
            100% {transform:scale(1.5,1.5);          -webkit-transform:scale(1.5,1.5); opacity: 0;}
         }
-
-    /* ==============================================================================================================================
-
-                                            /////
-                    End of basic Naut. Add your customizations or any addons below here!
-                                            /////
-
-    ==================================================================================================================================*/
