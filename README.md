@@ -1,9 +1,9 @@
 Naut reddit theme - Heartless Gaming
 ===============
 
-Naut is a CSS theme you can use on reddit.com. It's free to use and any subreddit can use and edit it. Visit /r/Naut to preview the theme.
+Naut reddit theme variation for Heartless gaming.
 
-![Naut 4.0](http://i.imgur.com/6iYIMcF.png)
+![Naut 4.0](http://i.imgur.com/JmDPBtW.png)
 
 
 Installation Instructions
