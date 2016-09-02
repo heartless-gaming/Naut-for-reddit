@@ -1,24 +1,19 @@
 Naut reddit theme - Heartless Gaming
 ===============
 
-Naut reddit theme variation for Heartless gaming.
+Naut reddit theme variation for Heartless Gaming.
 
-![Naut 4.0](http://i.imgur.com/JmDPBtW.png)
+![Naut 4.0 Heartless Gaming variation](http://i.imgur.com/JmDPBtW.png)
 
 
 Installation Instructions
 ===============
 
-'Subreddit' should be changed to your subreddit name.
+  1. Update and change the in code src/naut_heartless_src.css
+  2. Minify using a [css minifier](https://cssminifier.com).
+  3. Paste the CSS from the 'Naut 4 - Main CSS File.css' file into the CSS textarea.
+  4. Upload the images from the /images/ folder. (Don't rename them!)
+  5. Hit save.
+  6. Profit !
 
-  1. Go to /r/subreddit/about/stylesheet
-  2. Paste the CSS from the 'Naut 4 - Main CSS File.css' file into the CSS textarea.
-  3. Upload the images from the /images/ folder. (Don't rename them!)
-  4. Hit save!
-
-Now you can customize it by either adding customization lines yourself, or by visiting the /r/Naut wiki and customizing it yourself!
-
-If you have any questions on how to customize, /r/CSSHelp might be better suited than /r/Naut!
-
-
-##[Click here to download](https://github.com/Axel--/Naut-for-reddit/archive/master.zip)
+##[Click here to download](https://github.com/heartless-gaming/Naut-for-reddit/archive/master.zip)
